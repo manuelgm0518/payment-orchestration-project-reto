@@ -13,7 +13,7 @@ Proyecto de orquestación de pagos utilizando Temporal.io, Spring Boot y una arq
 1. Clonar el repositorio y posicionarse en la raíz:
 
    ```bash
-   git clone ...
+   git clone git@github.com:manuelgm0518/payment-orchestration-project-reto.git
    cd payment-orchestration-project-reto
    ```
 
