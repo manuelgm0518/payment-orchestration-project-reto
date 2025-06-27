@@ -82,3 +82,14 @@ Respuesta esperada:
 - Mongo Express: http://localhost:8081
 
 Se recomienda verificar que todos los servicios estén registrados en Eureka antes de realizar pruebas.
+
+
+## Ejecución
+<img width="517" alt="Screenshot 2025-06-27 at 1 51 50 p m" src="https://github.com/user-attachments/assets/da00a6e5-81c9-436f-b4df-896921fd2e32" />
+
+<img width="1782" alt="Screenshot 2025-06-27 at 1 51 27 p m" src="https://github.com/user-attachments/assets/5b79d504-2ab0-46d9-8c99-a28926c0870c" />
+
+<img width="626" alt="Screenshot 2025-06-27 at 1 52 54 p m" src="https://github.com/user-attachments/assets/68eb313c-03bb-415c-a968-6e2ebbf2ce62" />
+
+
+
